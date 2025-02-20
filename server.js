@@ -5,7 +5,7 @@ const cors = require("cors");
 const bodyParser = require("body-parser");
 const admin = require("firebase-admin");
 
-// Inicializar la aplicación Express
+// Inicializar la aplicación Express hhh
 const app = express();
 app.use(cors());
 app.use(bodyParser.json());
